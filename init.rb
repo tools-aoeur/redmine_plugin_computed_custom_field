@@ -9,10 +9,14 @@ require_relative 'lib/computed_custom_field/hooks'
 
 Redmine::Plugin.register :computed_custom_field do
   name 'Computed custom field'
-  author 'Yakov Annikov'
-  url 'https://github.com/annikoff/redmine_plugin_computed_custom_field'
-  description ''
-  version '1.0.8'
+  author 'Yakov Annikov (orig)'
+  author_url 'https://github.com/tools-aoeur'
+  description 'Allows creating custom fields with computed values based on formulas'
+  url 'https://github.com/tools-aoeur/redmine_computed_custom_field.git'
+  version '6.1.0'
+
+  requires_redmine version_or_higher: '6.1'
+
   settings default: {}
 end
 

@@ -1,4 +1,4 @@
-# This project was taken over from annikoff 
+# This project was taken over from annikoff
 
 see also
 
@@ -18,7 +18,7 @@ To put a field ID in the formula, double-click on an item in the list of availab
 
 ![ComputedCustomField plugin for Redmine](https://raw.githubusercontent.com/annikoff/images/master/redmine_plugin_computed_custom_field_v_1_0_3.png)
 
-### Changelog:
+### Changelog
 
 Plugin's changelog is available [here](CHANGELOG.md).
 
@@ -112,7 +112,7 @@ To write formulas this documentation can be helpful:
 ### Getting help
 
 If you need help with a formula's code read [FAQ](https://github.com/annikoff/redmine_plugin_computed_custom_field/wiki/FAQ)
-and check out [existing issues](https://github.com/annikoff/redmine_plugin_computed_custom_field/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Aquestion+) 
+and check out [existing issues](https://github.com/annikoff/redmine_plugin_computed_custom_field/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Aquestion+)
 or ask [Redmine community](https://www.redmine.org/projects/redmine/boards/2).
 
 Licensed under the [MIT-LICENSE](MIT-LICENSE)
